@@ -11,3 +11,4 @@ My MacOS Setup
 - [Beeper](https://www.beeper.com) _Chat Aggregator_
 - Globe <-> Control Swap
 - Tilda over Tab
+- `defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false` -> disables long key press [alternative character](https://datumorphism.leima.is/til/misc/vscode/vscode-on-mac-do-not-repeat/) to use with Vim
